@@ -1,10 +1,23 @@
-# Computer Science 
+# Log of Projects in this Repository
 
-* **How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
-Interpreting user needs and implementing them into a program is a crucial aspect of software development. It requires understanding the requirements and needs of users and transforming them into a functional application. Creating "user stories" is a technique that aids this process. User stories are concise descriptions of a feature from the perspective of a user. They capture the user's expectations and needs in a simple format. By utilizing user stories, developers can better empathize with users and ensure that the application addresses their specific requirements. User stories also act as a communication tool between developers, users, and stakeholders, fostering collaboration and alignment throughout the development cycle.
-  
-* **How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
-Approaching program development involves considering various factors and finding the suitable method methodology. One such approach is incorporating agile processes into the development workflow. Agile methodologies, such as Scrum or Kanban, emphasize iterative and incremental development, constant collaboration, and quick adaptation to changes. Agile frameworks facilitate regular feedback, continuous improvement, and the ability to deliver working software in shorter development cycles. Incorporating these agile processes in future development work can lead to more efficient and effective development, better team collaboration, and improved overall project outcomes. 
+1. CS 250 Final Presentation & Project on the Agile Methodology
+2. CS 230 Software Design Document for Draw It or Lose It
 
-* **What does it mean to be a good team member in software development?**
-Being a good team member in software development goes beyond technical skills. It encompasses qualities and behaviors that contribute to effective teamwork and successful project completion. A good team member actively communicates and collaborates with teammates, ensuring that everyone is on the same page and working towards a common goal. They listen to others' perspectives, respect their opinions, and contribute constructively to discussions. They demonstrate accountability, take ownership of their tasks, and deliver work on time. Additionally, a good team member is open to feedback, continuously learns and grows, and supports their colleagues in achieving shared objectives. Cultivating these qualities of a good team member fosters a positive team environment and maximizes the potential for successful software development projects.
+## Questions related to CS 230 Software Design Document
+### Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The client, The Gaming Room, want to develop a web-based game that serves multiple platforms based on their existing Android app game, "Draw It or Lost It". The game is inspired by the classic TV game show Win, Lose, or Draw, where teams compete to guess what is being drawn.
+
+### What did you do particularly well in developing this documentation?
+In completing the documentation, I dedicated extra attention to considering both the memory and storage aspects within the context of the game application. I aimed to offer recommendations on optimizing usage, implementing caching strategies, and efficiently managing storage resources. 
+
+### What about the process of working through a design document did you find helpful when developing the code?
+Working through a design document helps provide a structured approach to outlining the architecture, strategies, and considerations for the game application. It allows for clear visualization of how all the technical aspects would be managed. For example, the domain model depicts the classes that exist in the Draw It or Lose It game application system. The design document also facilitates collaboration and communication among team members, ensuring that everyone is on the same page regarding the implementation.
+
+### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I were to revise a section of the document, I would consider providing a more comprehensive evaluation of the characteristics, advantages, and weaknesses of each operating platform, as well as a thorough analysis of their differences.
+
+### How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+To interpret the user's needs, it is crucial to understand their objectives and preferences. By considering the user's needs during the software design process, you ensure that the final product aligns with their expectations, resulting in a user-friendly and satisfying experience. Meeting user needs increases the likelihood of adoption and success of the software. 
+
+### How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+When designing software applications, it's important to start with a clear understanding of the client's requirements and goals. An effective strategy would involve a comprehensive analysis of existing systems, potential bottlenecks, and scalability requirements. Techniques such as prototyping, use case modeling, and system architecture diagrams can help in breaking down the application into manageable components and defining their interactions. 
