@@ -6,7 +6,7 @@
 4. CS 305 Practices for Secure Software Report
 5. CS 320 Contact Service and JUnit Tests, Summary and Reflection Report
 
-## CSS 305 Journal Submission
+## CSS 320 Journal Submission
 *How can I ensure that my code, program, or software is functional and secure?*
 To ensure functionality, I prioritize thorough testing. I also follow best practices for clean code, like modular design and clear documentation, to make debugging and updates easier. Security is addressed by implementing measures such as input validation, secure authentication mechanisms, and using libraries and packages with strong security track records. Regular code reviews and staying updated on security vulnerabilities and best practices further enhance the integrity of the software. 
 
